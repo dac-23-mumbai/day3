@@ -1,0 +1,36 @@
+.myinput {
+  display: block;
+  width: 90vw;
+  height: 40px;
+
+  padding: 16px;
+  font-size: 21px;
+  border-radius: 16px;
+
+  background: lightblue;
+  color: black;
+  font-family: cursive;
+  font-weight: bold;
+
+  border: none;
+  margin-bottom: 8px;
+}
+
+.myinput::placeholder {
+  color: black;
+  opacity: 0.5;
+}
+
+.mybtn {
+  display: block;
+  width: 94vw;
+  height: 60px;
+  padding: 16px;
+
+  font-size: 21px;
+  background: goldenrod;
+  border: none;
+  border-radius: 16px;
+  color: black;
+  font-family: cursive;
+}

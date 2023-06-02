@@ -1,0 +1,32 @@
+.parent {
+  display: flex;
+  align-items: center;
+  background: gold;
+  padding: 16px;
+}
+
+.title {
+  font-size: 32px;
+  color: chocolate;
+  font-weight: bold;
+}
+
+.menu {
+  color: black;
+}
+
+.menu-selected {
+  color: chocolate;
+  font-weight: bold;
+}
+
+.menu:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.hireme {
+  color: chocolate;
+  font-family: cursive;
+  text-decoration: underline;
+}
